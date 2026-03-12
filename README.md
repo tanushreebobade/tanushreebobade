@@ -10,15 +10,13 @@ Currently practicing Data Structures & Algorithms and improving my skills in ful
 This profile is where I experiment with projects, practice coding, and document my learning journey.
 
 ---
-
 ### Tools & Tech
 
-• C++, Python 
+• C++, Python  
 • HTML, CSS, JavaScript  
 • React (learning)  
 • Node.js & Express (learning)  
 • Git & GitHub
-
 ---
 ### A Bit About Me
 
