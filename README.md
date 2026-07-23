@@ -4,7 +4,7 @@ Hi, I'm **Tanushree** 👋
 
 🎓 Computer Science student passionate about software development, problem solving, and building impactful applications.
 
-- 🚀 Currently building **CodeIt** — a full-stack coding platform inspired by LeetCode.
+- 🚀 Currently building **CodeIt** — a full-stack coding platform.
 - 🌱 Learning **Full Stack Development**, **System Design**, and **Data Structures & Algorithms**.
 - 💡 Interested in backend engineering, scalable web applications, and AI-powered developer tools.
 - ⚡ I enjoy turning ideas into real-world products through clean, efficient, and maintainable code.
