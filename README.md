@@ -55,7 +55,8 @@ Hi, I'm **Tanushree** 👋
 
 ---
 
-# 📊 GitHub Stats
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=tanushreebobade&show_icons=true&theme=dark&hide_border=true" height="170"/>
@@ -66,6 +67,15 @@ Hi, I'm **Tanushree** 👋
   <img src="https://streak-stats.demolab.com?user=tanushreebobade&theme=dark&hide_border=true"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/tanushreebobade">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushreebobade&theme=github-dark&hide_border=true"/>
+  </a>
+</p>
+
 ---
+## 👀 Profile Views
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanushreebobade&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
