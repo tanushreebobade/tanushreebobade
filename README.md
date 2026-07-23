@@ -67,12 +67,6 @@ Hi, I'm **Tanushree** 👋
   <img src="https://streak-stats.demolab.com?user=tanushreebobade&theme=dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tanushreebobade">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushreebobade&theme=github-dark&hide_border=true"/>
-  </a>
-</p>
-
 ---
 ## 👀 Profile Views
 
