@@ -1,113 +1,53 @@
-<div align="center">
-
-# Hey 👋, I'm Tanushree
-
-<img src="https://komarev.com/ghpvc/?username=tanushreebobade&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/tanushreebobade?label=Followers&style=flat&color=0e75b6" />
-
-</div>
-
----
-
-## 💫 About Me
+## About Me
 
 Hi, I'm **Tanushree** 👋
 
-🎓 Computer Science student passionate about software development, problem solving, and building impactful applications.
+Computer Science student interested in software development, problem solving, and building useful applications.
 
-- 🚀 Currently building **CodeIt** — a full-stack coding platform.
-- 🌱 Learning **Full Stack Development**, **System Design**, and **Data Structures & Algorithms**.
-- 💡 Interested in backend engineering, scalable web applications, and AI-powered developer tools.
-- ⚡ I enjoy turning ideas into real-world products through clean, efficient, and maintainable code.
-- 🎯 Aspiring Software Engineer, continuously learning and exploring modern technologies.
+- Currently building **CodeIt**, a full-stack coding platform.
+- Learning **Full Stack Development**, **System Design**, and **DSA**.
+- Interested in **backend development**, scalable applications, and AI tools.
+- I enjoy turning ideas into simple, practical projects.
+- Working towards becoming a better software engineer.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="left">
-
-<a href="https://x.com/tanushreebobade">
-<img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white"/>
-</a>
-
-<a href="mailto:tanushreebobade@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tanushreebobade">
-<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://x.com/tanushreebobade">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:tanushreebobade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-
-### React Ecosystem
-
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,redux,nodejs,express,mongodb,redis,git,github,docker,postman,vercel&perline=9" />
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tanushreebobade&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tanushreebobade&show_icons=true&theme=dark&hide_border=true"
     height="170"
   />
-
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushreebobade&layout=compact&theme=dark&hide_border=true"
     height="170"
   />
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://streak-stats.demolab.com?user=tanushreebobade&theme=dark&hide_border=true"
     height="170"
   />
@@ -115,32 +55,10 @@ Hi, I'm **Tanushree** 👋
 
 ---
 
-# 📈 Contribution Activity
+## 👀 Profile Views
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tanushreebobade&theme=github-dark&hide_border=true"
-    width="95%"
+  <img
+    src="https://komarev.com/ghpvc/?username=tanushreebobade&label=Profile%20Views&color=0e75b6&style=flat"
   />
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=tanushreebobade&theme=darkhub&no-frame=true&no-bg=true&margin-w=5"
-    width="90%"
-  />
-</p>
-
----
-
-<div align="center">
-
-### ✨ Building. Learning. Improving. 🚀
-
-**Always curious. Always coding.**
-
-</div>
