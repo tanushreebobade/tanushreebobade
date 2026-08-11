@@ -10,8 +10,6 @@ Computer Science student interested in software development, problem solving, an
 - I enjoy turning ideas into simple, practical projects.
 - Working towards becoming a better software engineer.
 
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -28,8 +26,6 @@ Computer Science student interested in software development, problem solving, an
   </a>
 </p>
 
----
-
 # 💻 Tech Stack
 
 <p align="left">
@@ -39,20 +35,7 @@ Computer Science student interested in software development, problem solving, an
   />
 </p>
 
----
-
 # 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=tanushreebobade&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushreebobade&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
 
 <p align="center">
   <img
@@ -60,8 +43,6 @@ Computer Science student interested in software development, problem solving, an
     height="170"
   />
 </p>
-
----
 
 ## 👀 Profile Views
 
@@ -71,5 +52,3 @@ Computer Science student interested in software development, problem solving, an
     alt="Profile Views"
   />
 </p>
-
----
