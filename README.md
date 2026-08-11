@@ -37,18 +37,7 @@ Computer Science student interested in software development, problem solving, an
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tanushreebobade&show_icons=true&theme=dark&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushreebobade&layout=compact&theme=dark&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tanushreebobade&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=tanushreebobade&background=191b26&border=303442&ring=6ea8ff&fire=6ea8ff&currStreakNum=6ea8ff&sideNums=6ea8ff&currStreakLabel=a875ff&sideLabels=6ea8ff&dates=6ea8ff&hide_border=true"
     height="170"
   />
 </p>
