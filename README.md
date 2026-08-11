@@ -33,30 +33,33 @@ Computer Science student interested in software development, problem solving, an
 # 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,redux,nodejs,express,mongodb,redis,git,github,docker,postman,vercel&perline=18" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,redux,nodejs,express,mongodb,redis,git,github,docker,postman,vercel&perline=18&size=10"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+# 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td width="70%">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=tanushreebobade&theme=github-dark&hide_border=true"
-        width="100%"
-      />
-    </td>
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=tanushreebobade&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushreebobade&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
-    <td width="30%">
-      <img
-        src="https://streak-stats.demolab.com?user=tanushreebobade&background=191b26&border=303442&ring=6ea8ff&fire=6ea8ff&currStreakNum=6ea8ff&sideNums=6ea8ff&currStreakLabel=a875ff&sideLabels=6ea8ff&dates=45d6c8&hide_border=true"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=tanushreebobade&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
 ---
 
@@ -65,6 +68,7 @@ Computer Science student interested in software development, problem solving, an
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=tanushreebobade&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
   />
 </p>
 
