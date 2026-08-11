@@ -44,8 +44,6 @@ Computer Science student interested in software development, problem solving, an
   />
 </p>
 
-## 👀 Profile Views
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=tanushreebobade&label=Profile%20Views&color=0e75b6&style=flat"
