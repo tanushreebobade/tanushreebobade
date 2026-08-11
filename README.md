@@ -10,18 +10,6 @@ Computer Science student interested in software development, problem solving, an
 - I enjoy turning ideas into simple, practical projects.
 - Working towards becoming a better software engineer.
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://x.com/tanushreebobade">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-
-  <a href="mailto:tanushreebobade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 # 💻 Tech Stack
 
 <p align="left">
