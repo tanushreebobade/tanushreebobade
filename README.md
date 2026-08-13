@@ -14,7 +14,7 @@ Computer Science student interested in software development, problem solving, an
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,tailwind,redux,nodejs,express,mongodb,redis,git,github,docker,postman,vercel&perline=18&size=10"
+    src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,react,tailwind,redux,nodejs,express,mongodb,redis,git,github,docker,postman,vercel&perline=18&size=10"
     alt="Tech Stack"
   />
 </p>
